@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://curustest.github.io/liga388/sitemap.xml
